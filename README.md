@@ -9,12 +9,6 @@ A Ecommerce Website made with React.js Framework.
 - Fully Responsive
 
 
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
-
-
-
 ## Run Locally
 
 Clone the project
