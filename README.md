@@ -3,24 +3,18 @@
 A Ecommerce Website made with React.js Framework.
 
 
-## Features
-
-- Easy to integrate with Backend
-- Fully Responsive
-
-
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/divyakumar123/ecommerce
+  git clone https://github.com/divyakumar123/Ecommerce
 ```
 
 Go to the project directory
 
 ```bash
-  cd ecommerce
+  cd Ecommerce
 ```
 
 Install dependencies
